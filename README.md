@@ -1,2 +1,2 @@
-# Summaries
-Summaries I've made for various Hebrew University courses
+# Course notes
+Course notes I've written for various Hebrew University courses
